@@ -37,7 +37,7 @@ $body = @{ model = "llama3.2"; prompt = "In one sentence, why does a raid need a
 Invoke-RestMethod -Uri http://localhost:11434/api/generate -Method Post -Body $body
 ```
 
-Because that's **two lines**, Windows Terminal throws a warning the first time — *"pasting multiple lines of text."* Click **Paste anyway**, then press **Enter**. (It only warns because a multi-line paste can run on its own; this command is harmless.)
+Because that's **two lines**, Windows Terminal warns you the first time — *"pasting multiple lines of text."* Click **Paste anyway**. The lines drop into the prompt but won't all run on their own — now **press Enter in the terminal** to fire it. (Windows only warns because a multi-line paste *can* auto-run; this command is harmless.)
 
 You'll get back a block of fields — the model name, some timings, and a **`response`** field with the actual answer.
 
