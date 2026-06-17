@@ -19,12 +19,12 @@ Next quest, you'll add a bot to a Discord server — and adding a bot needs the 
 
 Click the invite and join:
 
-> ### ➡️ **Get the outpost invite from Flap or an officer.**
+> ### ➡️ **Use the outpost invite link from Flap's guild announcement** *(or ask any officer)*.
 > *It's shared inside the guild — not posted in this public guide, so the keys to the outpost don't sit out on the open internet.*
 
 That's the whole quest. The moment you're in, you hold the keys — you can add a bot here. No server to build, nothing to configure.
 
-> **Tooltip — keep private data home:** the outpost is *shared*, so your Kid's answers post where other goats can read them. Perfect for the fun specs — combat logs, sports, cars. If you're going to point your Kid at genuinely private data (your portfolio), make your *own* server for that one instead — same steps, minus the sharing. More on that in Quest 6.
+> **Tooltip — keep private data home:** the outpost is *shared*, so your Kid's answers post where other goats can read them. Perfect for the fun specs — combat logs, sports, cars. If you're going to point your Kid at genuinely private data (your portfolio), spin up your *own* free server for that one instead — Discord's **+** button → *Create My Own* — and you're the only one who sees it.
 
 ---
 

@@ -34,7 +34,7 @@ Save, stop the bot (**Ctrl+C** in its terminal), run it again (`py "bot\bot.py"`
 
 ### 2. Feed him a document
 
-The system prompt sets his *attitude*. To give him *knowledge*, you hand him data in the message itself. Your starter folder has a worked example — a raid pull, analyzed. Run it:
+The system prompt sets his *attitude*. To give him *knowledge*, you hand him data in the message itself. The folder you downloaded has a worked example — a raid pull, analyzed. Run it:
 
 ```powershell
 py "examples\analyze-a-pull.py"

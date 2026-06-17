@@ -72,4 +72,4 @@ You've confirmed the Oracle runs on your GPU, you know your VRAM, and you can pu
 🏆 **Quest Complete: Know Your Gear**
 *No loot — but you now know exactly what your rig can summon and how to swap models in and out. That knowledge is the quest.*
 
-**Next:** ❗ *Quest 4 — A Temporary Outpost* — raise a hall of your own to bind a familiar in.
+**Next:** ❗ *Quest 4 — A Temporary Outpost* — report to the guild's outpost and pick up your keys.
