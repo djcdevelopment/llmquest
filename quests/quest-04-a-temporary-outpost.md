@@ -1,39 +1,41 @@
 ❗ **Quest 4 of 7 — A Temporary Outpost**
 *Quest line: Old Goat, New Tricks*
 
-> *"You'll not be binding a familiar in someone else's hall," the old goat warns. "You need ground you own. Raise an outpost — rough, temporary, yours. Raze it later if you like. But on your own ground, you hold every key."*
+> *"You'll not be binding a familiar in the guild's great hall — nobody hands the new blood those keys," the old goat says. "But the guild keeps a rough outpost for exactly this. Report there. Inside its walls, you'll have the run of the place."*
 
-**Requires:** nothing (you'll use it in Quest 5).
-**Time:** ~3 minutes.
-**Reward:** an outpost you command — full keys, and you can raze it any time.
+**Requires:** a Discord account.
+**Time:** ~2 minutes.
+**Reward:** the keys to the outpost — you can now bind your own Kid inside it.
 
 ---
 
-### Why your own server
+### Why a shared outpost (and not the guild hall)
 
-In Quest 5 you'll add a bot to a Discord server, and adding a bot requires the **Manage Server** key. You almost certainly don't hold that key on the *Goats After Dark* server — and that's correct, nobody hands the new folks the keys to the guild hall. So you'll raise your **own** server, where you're the owner and hold every key. It's a sandbox: private, disposable, zero stakes.
+Next quest, you'll add a bot to a Discord server — and adding a bot needs the **Manage Server** key. Nobody holds that on the main *Goats After Dark* server, and that's correct: you don't hand the new blood the keys to the guild hall. So the guild keeps a **throwaway sandbox** where every goat has the run of the place. You bind your Kid there.
 
-### 1. Raise the outpost
+> **Tooltip — won't everyone's Kids collide?** No. A bot only answers when *it* is @mentioned, so a whole guild of Kids can share one outpost and never crosstalk — `@Digital_Flapski` and `@Digital_Yours` ignore each other completely. One hall, many familiars.
 
-In Discord, click the **+** button down the left edge (the vertical strip of server icons) → **Create My Own** → **For me and my friends** → name it (e.g. `<yourname>'s Outpost`). Done — you're the **owner**.
+### 1. Report to the outpost
 
-> **Tooltip — you hold every key:** because you created it, you have full permissions here. That's the whole point: you can add a bot, change anything, and break nothing that matters. Made a mess? **Server Settings → Delete Server**, and raise a fresh one in thirty seconds.
+Click the invite and join:
 
-### 2. Make a place to talk to your Kid
+> ### ➡️ **[ PASTE THE SANDBOX INVITE LINK HERE ]**
 
-Hover the channel list → **+** → create a text channel named `#kid-test`. That's where you'll @mention your familiar next quest.
+That's the whole quest. The moment you're in, you hold the keys — you can add a bot here. No server to build, nothing to configure.
+
+> **Tooltip — keep private data home:** the outpost is *shared*, so your Kid's answers post where other goats can read them. Perfect for the fun specs — combat logs, sports, cars. If you're going to point your Kid at genuinely private data (your portfolio), make your *own* server for that one instead — same steps, minus the sharing. More on that in Quest 6.
 
 ---
 
 ### ✅ Checkpoint
-You own a Discord server with a `#kid-test` channel, and your name sits under **Owner**. Ground of your own.
+You're in the guild's outpost and you can see its channels. That's all you need — your Kid gets bound here next quest.
 
 ### 🆘 Stuck? `/whisper` your AI
-Can't find the **+**? It's the green circle at the bottom of the vertical server-icon strip on the far left. Describe what you see to your free AI and it'll point you.
+Invite link dead or expired? Ping an officer for a fresh one. Already inside? You're done — move on.
 
 ---
 
 🏆 **Quest Complete: A Temporary Outpost**
-*You command an outpost — full keys, disposable, yours.*
+*You hold the keys to the outpost — bind your familiar here.*
 
-**Next:** ❗ *Quest 5 — Bind a Familiar* — the big one. Raise the Kid and give him a home here.
+**Next:** ❗ *Quest 5 — Bind a Familiar* — the big one, now mostly double-clicks.
