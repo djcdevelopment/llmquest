@@ -1,0 +1,25 @@
+<svg viewBox="0 0 660 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Breadcrumb complete: A Sharper Blade.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171a3c"/><stop offset="1" stop-color="#26173f"/></linearGradient>
+    <radialGradient id="orb" cx="50%" cy="42%" r="62%"><stop offset="0" stop-color="#ffe1a6"/><stop offset="45%" stop-color="#ff8e3c"/><stop offset="100%" stop-color="#6f37c9"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe7a0"/><stop offset="1" stop-color="#df9a2c"/></linearGradient>
+    <radialGradient id="warm" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#ff8a3d" stop-opacity="0.35"/><stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="3" y="3" width="654" height="194" rx="18" fill="url(#bg)"/>
+  <ellipse cx="102" cy="120" rx="155" ry="115" fill="url(#warm)"/>
+  <rect x="3" y="3" width="654" height="194" rx="18" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+  <g fill="#cdb4ff"><circle cx="505" cy="40" r="1.6" opacity="0.9"/><circle cx="548" cy="64" r="1.1" opacity="0.7"/><circle cx="600" cy="34" r="1.5" opacity="0.9"/><circle cx="631" cy="74" r="1" opacity="0.6"/><circle cx="585" cy="96" r="1.2" opacity="0.7"/><circle cx="470" cy="150" r="1.1" opacity="0.55"/></g>
+  <g transform="translate(102,100)">
+    <circle r="62" fill="url(#orb)" filter="url(#glow)"/>
+    <circle r="62" fill="none" stroke="url(#gold)" stroke-width="3"/>
+    <circle r="71" fill="none" stroke="#ff8a3d" stroke-width="1.5" opacity="0.45"/>
+    <text x="0" y="21" font-size="56" text-anchor="middle">⚔️</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="198" y="56" fill="#ffb454" font-size="15" letter-spacing="3.5" font-weight="bold">★  BREADCRUMB · DONE</text>
+    <text x="198" y="102" fill="#f7e9c8" font-size="33" font-weight="bold">A Sharper Blade</text>
+    <text x="198" y="135" fill="#cdb4ff" font-size="17" font-style="italic">Your blade is sharpened — the climb begins</text>
+    <text x="198" y="170" fill="#8b80b2" font-size="12.5" letter-spacing="1.5">OLD GOAT, NEW TRICKS · GOATS AFTER DARK</text>
+  </g>
+</svg>
