@@ -3,7 +3,7 @@
 
 > *The old goat finally stands. "Talking to the Oracle in a terminal is a parlor trick. A familiar is different — you bind a piece of it, give it a name, and it answers your guild in your voice. Bind it well: its soul is a single key, and whoever holds that key holds the familiar."*
 
-**Requires:** Quest 4 (the outpost's keys) and a working Oracle (Quests 1–3).
+**Requires:** Quest 4 (the outpost's keys), a working Oracle (Quests 1–3), and **this repo's files on your PC** — see *How to follow this* in the README (it's a Download-ZIP, no git needed).
 **Time:** ~20 minutes — most of it is now double-clicks.
 **Reward:** A bound familiar — **the Kid** — answering your @mentions from the outpost, thinking on your own GPU.
 
@@ -21,7 +21,7 @@
 
 ### 0. Gear up — double-click `setup.bat`
 
-In the `bot` folder, **double-click `setup.bat`**. It installs Python (if you don't have it), installs the Kid's three libraries, and creates your `.env` file — all on its own.
+In the `bot` folder (inside the `llmquest-main` folder you downloaded), **double-click `setup.bat`**. It installs Python (if you don't have it), installs the Kid's three libraries, and creates your `.env` file — all on its own.
 
 > **Tooltip — the one wrinkle:** if it had to install Python from scratch, it'll say *"close this window and double-click setup.bat once more."* Do exactly that — Windows needs a fresh window to see the new Python, and the second run finishes the job. *(Prefer to type it? The slow way still works: `winget install Python.Python.3.12 -e`, then `py -m pip install discord.py ollama python-dotenv`.)*
 

@@ -14,6 +14,20 @@ No prior command-line experience required. If you ever edited `autoexec.bat` to 
 
 ---
 
+## 📥 How to follow this
+
+Read the whole questline **right here on GitHub** — Quests 0–4 are commands you type and buttons you click, with nothing to download.
+
+**From Quest 5 onward, you'll run two small files from this repo on your own PC.** Grab them whenever — now, or when you reach Quest 5:
+
+1. Click the green **`<> Code`** button at the top of the repo → **Download ZIP**.
+2. Open the ZIP and **Extract** it somewhere easy, like your **Desktop**.
+3. You'll get a folder named **`llmquest-main`** — everything you need is in the **`bot`** folder inside it.
+
+*No `git` required. (If you already live in `git clone`, that works too.)*
+
+---
+
 ## The chain
 
 You don't have to clear it in one night. Quests persist in your log — park it after a pull, come back tomorrow.
