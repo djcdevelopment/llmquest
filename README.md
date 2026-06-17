@@ -1,3 +1,5 @@
+![Old Goat, New Tricks — a grizzled goat-sorcerer summoning a local-AI familiar by a campfire after dark](assets/hero.jpg)
+
 # Old Goat, New Tricks
 
 ### A 7-quest attunement: stand up your own local AI, then bind it to a Discord you control.
