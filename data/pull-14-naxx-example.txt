@@ -1,0 +1,30 @@
+WIPE REPORT — Patchwerk (Naxxramas, 25-man) — Pull 14 — 00:47 server time
+Result: WIPE at 6% boss HP. Hard enrage (Berserk) hit at 3:42.
+
+DPS (top + the ones dragging):
+  Hunter   (Marksmanship)   8,910 DPS   parse 94
+  Mage     (Fire)           8,640 DPS   parse 91
+  Rogue    (Assassination)  8,205 DPS   parse 88
+  Warrior  (Fury)           6,980 DPS   parse 61   <- low for the gear
+  Druid    (Balance)        6,400 DPS   parse 55   <- low
+  Paladin  (Retribution)    4,120 DPS   parse 22   <- very low, died early (see below)
+  [18 more raiders omitted]
+
+DEATHS (in order):
+  02:10  Paladin (Ret, plate melee)  killed by Hateful Strike (8,400)
+         -> was standing in the melee group. Hateful Strike hits the highest-HP
+            NON-tank in melee range. With his plate HP, that was him.
+  03:05  Off-Tank                    killed by Hateful Strike (8,900)
+         -> 4-second gap with no personal cooldown up; healers were busy
+            re-stabilizing after the Ret death.
+  03:42  Berserk (hard enrage)       remaining raid melted in ~6 seconds.
+
+TANKS / HEALING:
+  Main tank held aggro the whole pull. Healing was solid until 02:10; after the
+  Ret death the healers spent ~20s topping the wrong targets and the OT slipped.
+
+AUTO-FLAGGED NOTES:
+  - Hateful Strike landed on a non-tank twice. It should only ever hit off-tanks.
+  - 2 melee DPS (Ret, Rogue) were inside the Hateful Strike melee group.
+  - We hit Berserk at 6%. With Warrior + Boomkin parsing 55-61, we left enough
+    DPS on the table to have closed that gap before enrage.
