@@ -20,7 +20,7 @@
 
 Look at your system tray (bottom-right, by the clock). See the little llama? That's **the Ollama server** — a program that's been running quietly since you installed it, listening on your machine at an address called `localhost:11434`.
 
-See what it's holding right now:
+Now — back **in your terminal** — type this and press **Enter** to see what the server's holding right now:
 
 ```powershell
 ollama ps
