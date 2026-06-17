@@ -15,9 +15,9 @@ A terminal is a window where you type commands instead of clicking buttons. That
 
 Windows hands you an old, clunky terminal. We'll grab the modern one — **Windows Terminal** — because copy-paste actually works, you get tabs, and it won't fight you.
 
-### 1. Open the blade you already have
+### 1. Draw the heirloom sword
 
-Click **Start**, type `powershell`, press **Enter**. A window opens with a `>` prompt. That's a terminal — you already had one.
+Click **Start**, type `powershell`, press **Enter**. A window opens with a `>` prompt — that's the heirloom blade Windows handed you. Serviceable, but rusty. Let's get you a sharper one.
 
 ### 2. Install the better blade
 
@@ -27,11 +27,13 @@ Paste this and press **Enter**:
 winget install Microsoft.WindowsTerminal -e
 ```
 
+The first time, winget will likely ask you to accept its terms — *"Do you agree to all the source agreements terms?"* Type **`y`** and press **Enter** to continue. Then it downloads and installs on its own.
+
 > **Tooltip:** `winget` is Windows' built-in app installer — an app store you type to. You'll use it again for Ollama and Python. No hunting for download buttons. *(No winget? Grab Windows Terminal from the Microsoft Store — one click.)*
 
-### 3. Move in
+### 3. Swing the new blade
 
-**Start** → type `terminal` → open **Windows Terminal**. This is home from now on.
+**Start** → type `terminal` → open **Windows Terminal**. Give it a swing — this is home from now on.
 
 ### The five things you'll ever actually need
 
