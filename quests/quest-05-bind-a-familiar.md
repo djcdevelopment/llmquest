@@ -27,11 +27,11 @@ In the `bot` folder (inside the `llmquest-main` folder you downloaded), **double
 
 ### 1. Forge the familiar
 
-Go to the **Discord Developer Portal** → **New Application**. Name it `Digital_<yourname>` (that's how *Digital_Flapski* was bound). Open the **Bot** tab on the left.
+Go to the **Discord Developer Portal** → **New Application**. Name it `Digital_<yourname>` (that's how *Digital_Flapski* was bound), agree to the terms, and click **Create**. *(Discord may pop a "Wait — are you human?" check; tick **I am human** and carry on.)* Then open the **Bot** tab on the left.
 
 ### 2. Flip the one switch everyone forgets
 
-On the **Bot** tab → **Privileged Gateway Intents** → toggle **Message Content Intent → ON**. Save.
+On the **Bot** tab, scroll to **Privileged Gateway Intents** → toggle **Message Content Intent → ON** → then click the green **Save Changes** bar that slides up at the bottom. *(Skip that save and the toggle silently won't stick — and your Kid will hear nothing.)*
 
 > **Tooltip — THE gotcha:** this switch decides whether your Kid can *read what people type*. Off = he connects, looks perfectly online, and replies to nothing. Ninety percent of "my bot is broken" is this toggle.
 
