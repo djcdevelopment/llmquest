@@ -19,7 +19,8 @@ Next quest, you'll add a bot to a Discord server — and adding a bot needs the 
 
 Click the invite and join:
 
-> ### ➡️ **[ PASTE THE SANDBOX INVITE LINK HERE ]**
+> ### ➡️ **Get the outpost invite from Flap or an officer.**
+> *It's shared inside the guild — not posted in this public guide, so the keys to the outpost don't sit out on the open internet.*
 
 That's the whole quest. The moment you're in, you hold the keys — you can add a bot here. No server to build, nothing to configure.
 
