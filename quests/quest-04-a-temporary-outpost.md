@@ -19,8 +19,8 @@ Next quest, you'll add a bot to a Discord server — and adding a bot needs the 
 
 Click the invite and join:
 
-> ### ➡️ **Use the outpost invite link from Flap's guild announcement** *(or ask any officer)*.
-> *It's shared inside the guild — not posted in this public guide, so the keys to the outpost don't sit out on the open internet.*
+> ### ➡️ **Use the outpost invite link from Flap's guild announcement.**
+> *Shared inside the guild, never in this public repo (the keys shouldn't sit on the open internet). **Can't find it? DM Flap directly — he's the only one who has it; other officers won't.***
 
 That's the whole quest. The moment you're in, you hold the keys — you can add a bot here. No server to build, nothing to configure.
 
@@ -32,7 +32,7 @@ That's the whole quest. The moment you're in, you hold the keys — you can add 
 You're in the guild's outpost and you can see its channels. That's all you need — your Kid gets bound here next quest.
 
 ### 🆘 Stuck? `/whisper` your AI
-Invite link dead or expired? Ping an officer for a fresh one. Already inside? You're done — move on.
+Invite link dead or expired? **DM Flap** for a fresh one — he's the only one who has it. Already inside? If you snag later, ask in the outpost's `#help` channel — a goat who's cleared the quest can dig you out, even when Flap's away.
 
 ---
 
