@@ -23,6 +23,8 @@
 
 In the `bot` folder (inside the `llmquest-main` folder you downloaded), **double-click `setup.bat`**. It installs Python (if you don't have it), installs the Kid's three libraries, and creates your `.env` file — all on its own.
 
+> **Tooltip — if Windows warns you:** double-clicking a downloaded `.bat` can pop a *"Windows protected your PC"* or *"publisher could not be verified"* box. That's normal for anything off the internet — click **More info → Run anyway** (or **Run**). It's your own file. *(Did the **Unblock** step when you downloaded? Then you won't see this — for `setup.bat` or `start-kid.bat`.)*
+
 > **Tooltip — the one wrinkle:** if it had to install Python from scratch, it'll say *"close this window and double-click setup.bat once more."* Do exactly that — Windows needs a fresh window to see the new Python, and the second run finishes the job. *(Prefer to type it? The slow way still works: `winget install Python.Python.3.12 -e`, then `py -m pip install discord.py ollama python-dotenv`.)*
 
 ### 1. Forge the familiar

@@ -21,8 +21,9 @@ Read the whole questline **right here on GitHub** — Quests 0–4 are commands 
 **From Quest 5 onward, you'll run two small files from this repo on your own PC.** Grab them whenever — now, or when you reach Quest 5:
 
 1. Click the green **`<> Code`** button at the top of the repo → **Download ZIP**.
-2. Open the ZIP and **Extract** it somewhere easy, like your **Desktop**.
-3. You'll get a folder named **`llmquest-main`** — everything you need is in the **`bot`** folder inside it.
+2. **Right-click the downloaded ZIP → Properties → tick "Unblock" (bottom) → OK.** *(Windows flags anything from the internet; this one checkbox clears it so the helper files run without nagging you later.)*
+3. Open the ZIP and **Extract** it somewhere easy, like your **Desktop**.
+4. You'll get a folder named **`llmquest-main`** — everything you need is in the **`bot`** folder inside it.
 
 *No `git` required. (If you already live in `git clone`, that works too.)*
 
