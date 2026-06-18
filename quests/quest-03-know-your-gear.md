@@ -73,3 +73,11 @@ You've confirmed the Oracle runs on your GPU, you know your VRAM, and you can pu
 *No loot — but you now know exactly what your rig can summon and how to swap models in and out. That knowledge is the quest.*
 
 **Next:** ❗ *Quest 4 — A Temporary Outpost* — report to the guild's outpost and pick up your keys.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-03-know-your-gear.svg" width="520" alt="Know Your Gear — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

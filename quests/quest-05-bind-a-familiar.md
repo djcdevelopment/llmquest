@@ -105,3 +105,11 @@ Paste the exact error from the window into your free AI with the buff: *"I'm on 
 > *A spark of the Oracle, given a name and a home in the outpost. Answers only to you, thinks on your own iron, costs nothing to keep.*
 
 **Next:** ❗ *Quest 6 — Teach the Kid.* He runs on a 3B brain, so he'll be confidently, gloriously **wrong** sometimes — ask about Patchwerk's "adds" and watch. Not a flaw; the door to everything. Quest 6 feeds him **your** data.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-05-bind-a-familiar.svg" width="520" alt="Bind a Familiar — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

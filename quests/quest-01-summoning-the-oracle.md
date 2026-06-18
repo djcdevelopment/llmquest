@@ -83,3 +83,11 @@ Paste the **exact** error. Half of fixing a wipe is reading the log — same her
 > *Calls forth an intelligence that answers from your own machine. Requires no internet. Costs no gold. Watched by no one.*
 
 **Next:** ❗ *Quest 2 — Behind the Veil* — where you find out the Oracle was a server the whole time, and learn to whisper to it without the terminal.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-01-summoning-the-oracle.svg" width="520" alt="Summoning the Oracle — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

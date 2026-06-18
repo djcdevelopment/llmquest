@@ -79,3 +79,11 @@ Edited `bot.py` and he won't start? Paste the red error — it's usually a stray
 > *A familiar that knows what you know is worth ten that don't.*
 
 **Next:** ❗ *Quest 7 — Attuned* — keep him alive, and claim the title.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-06-teach-the-kid.svg" width="520" alt="Teach the Kid — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

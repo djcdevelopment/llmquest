@@ -68,3 +68,11 @@ You sent a prompt with `Invoke-RestMethod` and read the model's answer back. You
 > *You can send data to the model and read its answer with nobody's app in the way. The veil's gone — it was only ever a server.*
 
 **Next:** ❗ *Quest 3 — Know Your Gear* — find out how big a mind your rig can actually summon.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-02-behind-the-veil.svg" width="520" alt="Behind the Veil — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

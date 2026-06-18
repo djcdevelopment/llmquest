@@ -51,3 +51,11 @@ The first time, winget will likely ask you to accept its terms — *"Do you agre
 Windows Terminal opens to a dark window with a prompt ending in `>`. That's all you need.
 
 **Next:** ❗ *Quest 1 — Summoning the Oracle.*
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-00-a-sharper-blade.svg" width="520" alt="A Sharper Blade — breadcrumb complete">
+  <br>
+  <em>🏆 Blade sharpened. The real loot starts at Quest 1.</em>
+</p>

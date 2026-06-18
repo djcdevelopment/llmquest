@@ -40,3 +40,11 @@ Invite link dead or expired? Ping an officer for a fresh one. Already inside? Yo
 *You hold the keys to the outpost — bind your familiar here.*
 
 **Next:** ❗ *Quest 5 — Bind a Familiar* — the big one, now mostly double-clicks.
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-04-a-temporary-outpost.svg" width="520" alt="A Temporary Outpost — quest complete">
+  <br>
+  <em>🏆 Done? Screenshot your Ding for the guild's <code>#ding-board</code>.</em>
+</p>

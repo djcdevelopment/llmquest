@@ -46,3 +46,11 @@ You run a local mind, on your own iron, bound to your own hall, speaking in your
 Welcome to *Goats After Dark*, G.O.A.T.
 
 *— The end of the beginning. The next questline starts the day the #ding-board says it should.*
+
+---
+
+<p align="center">
+  <img src="../assets/badges/quest-07-attuned.svg" width="520" alt="Attuned — the Greatest of All Time">
+  <br>
+  <em>🏆 You're a G.O.A.T. Post your final Ding in <code>#ding-board</code> and claim the title.</em>
+</p>
